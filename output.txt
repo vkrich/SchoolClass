@@ -1,0 +1,5 @@
+  number 	 specialization 	 director 		 phone 	 	 studentCount 
+	121			Phi	 	 		PerepolGL		8124344545		130
+	222			Math	 	 		MirA		937485675		170
+	220			Litr	 	 		MironaVA		8124243434		180
+	241			Ist	 	 		MarkovLA		8124555566		190
